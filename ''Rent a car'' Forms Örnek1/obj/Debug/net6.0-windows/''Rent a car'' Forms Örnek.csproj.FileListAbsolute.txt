@@ -1,0 +1,17 @@
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\''Rent a car'' Forms Örnek.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\__Rent_a_car___Forms_Örnek.Form1.resources
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\''Rent a car'' Forms Örnek.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\''Rent a car'' Forms Örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\''Rent a car'' Forms Örnek.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\''Rent a car'' Forms Örnek.AssemblyInfo.cs
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\''Rent a car'' Forms Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\bin\Debug\net6.0-windows\''Rent a car'' Forms Örnek.exe
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\bin\Debug\net6.0-windows\''Rent a car'' Forms Örnek.deps.json
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\bin\Debug\net6.0-windows\''Rent a car'' Forms Örnek.runtimeconfig.json
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\bin\Debug\net6.0-windows\''Rent a car'' Forms Örnek.dll
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\bin\Debug\net6.0-windows\ref\''Rent a car'' Forms Örnek.dll
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\bin\Debug\net6.0-windows\''Rent a car'' Forms Örnek.pdb
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\''Rent a car'' Forms Örnek.dll
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\ref\''Rent a car'' Forms Örnek.dll
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\''Rent a car'' Forms Örnek.pdb
+C:\Users\Emir\Desktop\udemy\udemy proje\''Rent a car'' Forms Örnek\obj\Debug\net6.0-windows\''Rent a car'' Forms Örnek.genruntimeconfig.cache
